@@ -22,16 +22,16 @@ Maecenas tincidunt dignissim quam ac gravida. Nunc rutrum congue facilisis. In m
 ### Some of my contributions
 
 - trello
-  - ![](https://assets-cdn.github.com/images/trelloActivity.PNG)
+  - ![](assets/images/trelloActivity.PNG)
   
 - Git
-  - ![](https://assets-cdn.github.com/images/carlinActivity.PNG)
-  - ![](https://assets-cdn.github.com/images/carlinActivity2.PNG)
-  - ![](https://assets-cdn.github.com/images/carlinActivity.PNG)
-  - ![](https://assets-cdn.github.com/images/masterActivity.PNG)
-  - ![](https://assets-cdn.github.com/images/productionActivity.PNG)
-  - ![](https://assets-cdn.github.com/images/productionActivity2.PNG)
+  - ![](assets/images/carlinActivity.PNG)
+  - ![](assets/images/carlinActivity2.PNG)
+  - ![](assets/images/carlinActivity.PNG)
+  - ![](assets/images/masterActivity.PNG)
+  - ![](assets/images/productionActivity.PNG)
+  - ![](assets/images/productionActivity2.PNG)
 
 - Slack
-  - ![](/assets/images/slackActivity.PNG)
+  - ![](assets/images/slackActivity.PNG)
   - ![](assets/images/slackActivity2.PNG)
