@@ -21,11 +21,15 @@ Apart from dedicating most of my mental resources toward the authentication syst
 
 ## [](#header-2)My Main Challenges
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a interdum magna. Suspendisse ut urna leo. In vulputate congue sapien non egestas. Ut consequat gravida sapien at vehicula. Donec id vulputate est. Suspendisse ullamcorper, augue ut ultricies imperdiet, dolor est cursus est, et mollis nisl elit suscipit metus. Quisque sit amet aliquet ex, et elementum dui. Nam odio tellus, feugiat ac diam vitae, lacinia aliquet lorem. Nam sollicitudin vitae lacus at sollicitudin. Fusce sed orci vel metus vehicula eleifend in porttitor massa. Praesent volutpat quam et arcu viverra, nec pretium ligula lobortis.
+Most notably my main challenges involved learning such new and foreign languages and frameworks, it wasn’t just node that needed to be understood it was the delicate interdependencies between a plethora of different mechanisms such as view engines, JSON, JavaScript, sequilize to create a functioning application.
 
-Maecenas tincidunt dignissim quam ac gravida. Nunc rutrum congue facilisis. In maximus, nunc eu lacinia facilisis, urna felis lacinia leo, in venenatis tellus risus id sem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer maximus mauris id tellus bibendum iaculis. Donec cursus suscipit diam, eget suscipit sapien finibus vitae. Donec at vulputate metus, in bibendum purus. Suspendisse potenti. Vestibulum nec sem sit amet nisi auctor laoreet ac nec urna. Maecenas pulvinar augue a sem molestie, a rhoncus nisi ornare. Maecenas a imperdiet ipsum. Ut et justo at metus ultrices pellentesque a vel urna. Pellentesque sit amet urna vel nisl scelerisque venenatis. Vestibulum ullamcorper eu ex ac faucibus.
+Although I would come into the class later and still be able to ask questions and gauge what others in the project where doing, I was usually working on the authentication by myself, and unable to really engage in a pair programming environment where I may be able to tackle my numerus problems with the added advantage of another mind conceptualising the problem at a unique angle.
+
 
 ## [](#header-2)Some of my contributions
+
+- ###     Files
+  - View / Download the files i put most of my work and time into on the right sidebar.
 
 - ###     Trello
   - ![](assets/images/trelloActivity.PNG)
