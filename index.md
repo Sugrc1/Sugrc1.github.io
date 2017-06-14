@@ -19,12 +19,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a interdum magna.
 
 Maecenas tincidunt dignissim quam ac gravida. Nunc rutrum congue facilisis. In maximus, nunc eu lacinia facilisis, urna felis lacinia leo, in venenatis tellus risus id sem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer maximus mauris id tellus bibendum iaculis. Donec cursus suscipit diam, eget suscipit sapien finibus vitae. Donec at vulputate metus, in bibendum purus. Suspendisse potenti. Vestibulum nec sem sit amet nisi auctor laoreet ac nec urna. Maecenas pulvinar augue a sem molestie, a rhoncus nisi ornare. Maecenas a imperdiet ipsum. Ut et justo at metus ultrices pellentesque a vel urna. Pellentesque sit amet urna vel nisl scelerisque venenatis. Vestibulum ullamcorper eu ex ac faucibus.
 
-### Some of my contributions
+## [](#header-2)Some of my contributions
 
-- trello
+- ### Trello
   - ![](assets/images/trelloActivity.PNG)
   
-- Git
+- ### Git
   - ![](assets/images/carlinActivity.PNG)
   - ![](assets/images/carlinActivity2.PNG)
   - ![](assets/images/carlinActivity.PNG)
@@ -32,6 +32,6 @@ Maecenas tincidunt dignissim quam ac gravida. Nunc rutrum congue facilisis. In m
   - ![](assets/images/productionActivity.PNG)
   - ![](assets/images/productionActivity2.PNG)
 
-- Slack
+- ### Slack
   - ![](assets/images/slackActivity.PNG)
   - ![](assets/images/slackActivity2.PNG)
