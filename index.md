@@ -29,7 +29,7 @@ Although I would come into the class later and still be able to ask questions an
 ## [](#header-2)Some of my contributions
 
 - ###     Files
-  - View / Download the files i put most of my work and time into on the right sidebar.
+  - View / Download the files i put most of my work and time into. These can be found on the right sidebar.
 
 - ###     Trello
   - ![](assets/images/trelloActivity.PNG)
