@@ -22,16 +22,16 @@ Maecenas tincidunt dignissim quam ac gravida. Nunc rutrum congue facilisis. In m
 ### Some of my contributions
 
 - trello
-  - ![](https://assets-cdn.github.com/images/trelloActivity.png)
+  - ![](https://assets-cdn.github.com/images/trelloActivity.PNG)
   
 - Git
-  - ![](https://assets-cdn.github.com/images/carlinActivity.png)
-  - ![](https://assets-cdn.github.com/images/carlinActivity2.png)
-  - ![](https://assets-cdn.github.com/images/carlinActivity.png)
-  - ![](https://assets-cdn.github.com/images/masterActivity.png)
-  - ![](https://assets-cdn.github.com/images/productionActivity.png)
-  - ![](https://assets-cdn.github.com/images/productionActivity2.png)
+  - ![](https://assets-cdn.github.com/images/carlinActivity.PNG)
+  - ![](https://assets-cdn.github.com/images/carlinActivity2.PNG)
+  - ![](https://assets-cdn.github.com/images/carlinActivity.PNG)
+  - ![](https://assets-cdn.github.com/images/masterActivity.PNG)
+  - ![](https://assets-cdn.github.com/images/productionActivity.PNG)
+  - ![](https://assets-cdn.github.com/images/productionActivity2.PNG)
 
 - Slack
-  - ![](https://assets-cdn.github.com/images/slackActivity.png)
-  - ![](https://assets-cdn.github.com/images/slackActivity2.png)
+  - ![](https://assets-cdn.github.com/images/slackActivity.PNG)
+  - ![](https://assets-cdn.github.com/images/slackActivity2.PNG)
