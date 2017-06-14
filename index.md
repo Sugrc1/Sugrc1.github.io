@@ -4,7 +4,7 @@
 This semester we were set the task of co-ordinating the creation of an application for the local Meals on Wheels service, I knew this would be a challenge but I was ready for it! Wrong. Before things even started I had a big ol’ clash with one of my more involved papers, systems administration. Next, after entering that first class late, I have missed a wealth of information regarding the project itself and the positioning of people in the project to correctly compliment their skillset, I was placed on the opposite side of my spectrum. But in doing so I have come to realise that through perseverance, determination and teamwork daunting and complex tasks become simple. 
 
 > "When eating an elephant take one bite at a time."
-> -	Creighton Abrams
+> _Creighton Abrams_
 
 
 
