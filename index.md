@@ -33,5 +33,5 @@ Maecenas tincidunt dignissim quam ac gravida. Nunc rutrum congue facilisis. In m
   - ![](https://assets-cdn.github.com/images/productionActivity2.PNG)
 
 - Slack
-  - ![](https://assets-cdn.github.com/images/slackActivity.PNG)
-  - ![](https://assets-cdn.github.com/images/slackActivity2.PNG)
+  - ![](/assets/images/slackActivity.PNG)
+  - ![](assets/images/slackActivity2.PNG)
