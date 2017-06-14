@@ -21,10 +21,10 @@ Maecenas tincidunt dignissim quam ac gravida. Nunc rutrum congue facilisis. In m
 
 ## [](#header-2)Some of my contributions
 
-- ### Trello
+-     ### Trello
   - ![](assets/images/trelloActivity.PNG)
   
-- ### Git
+-     ### Git
   - ![](assets/images/carlinActivity.PNG)
   - ![](assets/images/carlinActivity2.PNG)
   - ![](assets/images/carlinActivity.PNG)
@@ -32,6 +32,6 @@ Maecenas tincidunt dignissim quam ac gravida. Nunc rutrum congue facilisis. In m
   - ![](assets/images/productionActivity.PNG)
   - ![](assets/images/productionActivity2.PNG)
 
-- ### Slack
+-     ### Slack
   - ![](assets/images/slackActivity.PNG)
   - ![](assets/images/slackActivity2.PNG)
